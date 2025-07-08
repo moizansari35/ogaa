@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675040144535",
+    "project_id": "lms-app-e8d81",
+    "storage_bucket": "lms-app-e8d81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675040144535:android:1563b698dfdaafdebf8dd2",
+        "android_client_info": {
+          "package_name": "com.example.ogaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChY5qparuyKd4o4jlhOgFpaawfxs5izYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675040144535:android:c06c71be81b38eddbf8dd2",
+        "android_client_info": {
+          "package_name": "com.example.student_university"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChY5qparuyKd4o4jlhOgFpaawfxs5izYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/Users/PMLS/Downloads/Flutter Projects/ogaa/android/app/.cxx/Debug/z64631sh/x86/CMakeFiles/edit_cache.dir
+C:/Users/PMLS/Downloads/Flutter Projects/ogaa/android/app/.cxx/Debug/z64631sh/x86/CMakeFiles/rebuild_cache.dir
