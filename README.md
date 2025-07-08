@@ -69,7 +69,7 @@ A personalized gardening assistant that suggests the right plants using live wea
 </table>
 
 <p align="center">
-  <i>🌼 Let OGAA guide your green journey — grow smart with like of AI-powered plant recommendations.</i>
+  <i>🌼 Let OGAA guide your green journey — choose the right plants at the right time, every time.</i>
 </p>
 
 <hr/>
