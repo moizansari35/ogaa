@@ -37,31 +37,31 @@ A personalized gardening assistant that suggests the right plants using live wea
 <table width="100%" align="center" cellspacing="10">
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup1.png" width="100%" alt="Splash & Welcome Screens" /><br/>
+      <img src="assets/screenshots/mockup1.png" width="100%" alt="Splash & Welcome Screens" /><br/>
       <strong>🚀 Getting Started</strong><br/>
       <sub>Includes Splash and Welcome screens — with options to Sign In or Sign Up and begin the gardening journey.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup2.png" width="100%" alt="Auth & Home Screens" /><br/>
+      <img src="assets/screenshots/mockup2.png" width="100%" alt="Auth & Home Screens" /><br/>
       <strong>🔐 Authentication + Home</strong><br/>
       <sub>SignUp - SignIn pages and a stunning Home screen featuring sliders, offline plant grids, and the Plant Intelligence button.</sub>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup3.png" width="100%" alt="Plant Intelligence" /><br/>
+      <img src="assets/screenshots/mockup3.png" width="100%" alt="Plant Intelligence" /><br/>
       <strong>🧠 Plant Intelligence</strong><br/>
       <sub>Auto-fetches weather by location; users select plant category and weather type — get smart plant suggestions instantly.</sub>
     </td>
     <td align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup4.png" width="100%" alt="OGAA AI Chatbot & More" /><br/>
+      <img src="assets/screenshots/mockup4.png" width="100%" alt="OGAA AI Chatbot & More" /><br/>
       <strong>🤖 AI Chatbot + Explore</strong><br/>
       <sub>Chat with OGAA using Gemini AI, view all plants, and explore OGAA's purpose in the About section.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top" style="border: 1px solid #ccc; padding: 15px;">
-      <img src="Assets/Screenshots/mockup5.png" width="60%" alt="User Profile" /><br/>
+      <img src="assets/screenshots/mockup5.png" width="60%" alt="User Profile" /><br/>
       <strong>👤 Profile</strong><br/>
       <sub>Manage your profile, update your name/photo, or securely change your password with a smooth UI flow.</sub>
     </td>
